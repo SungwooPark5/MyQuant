@@ -7,3 +7,5 @@ frontend/node_modules
 .env
 
 .vscode
+
+**/__pycache__
